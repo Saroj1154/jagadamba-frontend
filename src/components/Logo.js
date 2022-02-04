@@ -4,7 +4,7 @@ import logo from '../assets/images/logo.png'
 function Logo() {
     return (
         <div>
-            <img src={logo} alt="jagadamba logo" style={{ height: '10rem', width: '25rem' }} />
+            <img src={logo} alt="jagadamba logo" style={{ height: 'auto', width: "100%" }} />
         </div>
     )
 }

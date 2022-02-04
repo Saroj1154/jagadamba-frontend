@@ -3,7 +3,7 @@ import Video from './Video'
 
 function HeroSection() {
     return (
-        <div>
+        <div className="pt-1">
             <Video />
         </div>
     )
